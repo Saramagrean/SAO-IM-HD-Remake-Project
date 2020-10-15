@@ -16,5 +16,8 @@ Required:
 <a href="https://ibb.co/q7sQNDj"><img src="https://i.ibb.co/6rPCHyw/NPJH50701-00028.jpg" alt="NPJH50701-00028" border="0"></a>
 <a href="https://ibb.co/rFTZzKb"><img src="https://i.ibb.co/5Gt5SXY/NPJH50701-00017.jpg" alt="NPJH50701-00017" border="0"></a>
 
+Review:
+https://youtu.be/_52tfhWLJvU
+
 Download:
 https://codeload.github.com/Saramagrean/SAO-IM-HD-Remake-Project/zip/master
