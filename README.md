@@ -9,9 +9,12 @@ High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701). use
 - Total size: 339 MB. (1,924 files)
 
 •••• Info : •••
+- Logo title & Main Memu = 100% 
 - Filed = 5% (Floor 76 complete.)
 - Armor & Weapon = 40%
 - Monster = 1%
+- Character cut-in = 2%
+- Background in converation = 1%
 - Text Loacation = 1%
 - Effect = 1%
 
