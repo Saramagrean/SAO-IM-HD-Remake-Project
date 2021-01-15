@@ -8,6 +8,13 @@ High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701). use
 - Latest update: 20/02/2020
 - Total size: 339 MB. (1,924 files)
 
+•••• Info : •••
+- Filed = 5% (Floor 76 complete.)
+- Armor & Weapon = 40%
+- Monster = 1%
+- Text Loacation = 1%
+- Effect = 1%
+
 •••• Required: •••
 - Sword Art Online: Infinity Moment (Original Japan or English Patched)
 - PPSSPP latest version.
@@ -35,8 +42,31 @@ https://codeload.github.com/Saramagrean/SAO-IM-HD-Remake-Project/zip/master
 ••• English Patch •••
 
 What Include Patch v2.0:
-- Game has translated full. (98%) 
 
-• Download English Patch v2.0 (xdelta): ...soon...
+This patch use translations of "SAO: Hollow Fragment" as source.
+
+OVERALL STATUS: 99%
+
+- Story: 99%
+- Items: 100%
+- Quest: 100%
+- Skill: 100%
+- Dialog NPC: 100%
+- Location Map: 100%
+- Line System: 100%
+- MenuSystem: 100%
+- Cutscene: 100%
+
+STAFF TEAM:
+- HoaiTrung97: Hacking, Edit, Test... and all everything.
+- Saramagrean (Benjamin Benda Gates): Support Cutscene & HD Texture pack.
+
+SPECIAL THANKS:
+- Ace_Ssasin: Design Logo.
+- CrushedSoul86: Small Translate.
+- YamiKaze: Small Support.
+- saoimguide & Yomikaeru Blog: Document Translate.
+
+• Download English Patch v2.0 (xdelta): https://www.mediafire.com/folder/xcgci4w89acd0/SAO
 
 
