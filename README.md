@@ -47,13 +47,19 @@ High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701), use
 
 On Android it's recommended to download by "Termux" app (from Play Store).
 
-Step 1 : using command "pkg install git"
-Step 2 : "pkg upgrade"
-Step 3 : "termux-setup-storage"
-Step 4 : "cd ~/storage/shared/"
-Step 5 : "git clone https://github.com/Saramagrean/SAO-IM-HD-Remake-Project.git"
-Step 6 : waiting donwload 100%
+- Step 1 : using command "pkg install git"
+- Step 2 : "pkg upgrade"
+- Step 3 : "termux-setup-storage"
+- Step 4 : "cd ~/storage/shared/"
+- Step 5 : "git clone https://github.com/Saramagrean/SAO-IM-HD-Remake-Project.git"
+- Step 6 : waiting donwload 100%
+
 On Windows use "Git" or "Github desktop" for download.
+
+Up-to-date command.
+- Step 1 : "cd ~/storage/shared/SAO-IM-HD-Remake-Project"
+- Step 2 : "git pull origin master"
+- Step 3 : waiting donwload 100%
 
 or...
 https://codeload.github.com/Saramagrean/SAO-IM-HD-Remake-Project/zip/master
