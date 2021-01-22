@@ -5,8 +5,8 @@
 High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701), use with PPSSPP emulator.
 
 - Progress: Initial release (around 5%)
-- Latest update: 21/01/2021
-- Total size: 234 MB. (2,130 files)
+- Latest update: 22/01/2021
+- Total size: 254 MB. (2,219 files)
 
 •••• Info : •••
 - Logo title & Main Memu = 100% 
