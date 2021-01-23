@@ -27,16 +27,18 @@ High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701), use
 
 ••• Screenshots. •••
 
-<a href="https://ibb.co/vJYCDF5"><img src="https://i.ibb.co/rZsKvjP/NPJH50701-00037.jpg" alt="NPJH50701-00037" border="0"></a>
 <a href="https://ibb.co/ZGK3Krj"><img src="https://i.ibb.co/FmJ9J1r/NPJH50701-00045.jpg" alt="NPJH50701-00045" border="0"></a>
+<a href="https://ibb.co/vJYCDF5"><img src="https://i.ibb.co/rZsKvjP/NPJH50701-00037.jpg" alt="NPJH50701-00037" border="0"></a>
 <a href="https://ibb.co/ZYZCF7h"><img src="https://i.ibb.co/z7kwBDS/NPJH50701-00038.jpg" alt="NPJH50701-00038" border="0"></a>
 <a href="https://ibb.co/WtCvFhd"><img src="https://i.ibb.co/sH79QfD/NPJH50701-00030.jpg" alt="NPJH50701-00030" border="0"></a>
 <a href="https://ibb.co/gPKqWKJ"><img src="https://i.ibb.co/s6Yx1Yq/NPJH50701-00020.jpg" alt="NPJH50701-00020" border="0"></a>
 <a href="https://ibb.co/WPL6QvN"><img src="https://i.ibb.co/LJ38MdD/NPJH50701-00032.jpg" alt="NPJH50701-00032" border="0"></a>
+<a href="https://ibb.co/tPTDXdJ"><img src="https://i.ibb.co/YTFhZrL/NPJH50701-00063.jpg" alt="NPJH50701-00063" border="0"></a>
 <a href="https://ibb.co/nD83n0M"><img src="https://i.ibb.co/RC4hBST/NPJH50701-00014.jpg" alt="NPJH50701-00014" border="0"></a>
 <a href="https://ibb.co/MDKk2wq"><img src="https://i.ibb.co/fYZd16m/NPJH50701-00004.jpg" alt="NPJH50701-00004" border="0"></a>
 <a href="https://ibb.co/q7sQNDj"><img src="https://i.ibb.co/6rPCHyw/NPJH50701-00028.jpg" alt="NPJH50701-00028" border="0"></a>
 <a href="https://ibb.co/tMzHPNj"><img src="https://i.ibb.co/xSY28c9/NPJH50701-00050.jpg" alt="NPJH50701-00050" border="0"></a>
+<a href="https://ibb.co/x1QYnHj"><img src="https://i.ibb.co/jyFzCRM/NPJH50701-00064.jpg" alt="NPJH50701-00064" border="0"></a>
 <a href="https://ibb.co/rFTZzKb"><img src="https://i.ibb.co/5Gt5SXY/NPJH50701-00017.jpg" alt="NPJH50701-00017" border="0"></a>
 
 • Review: https://youtu.be/_52tfhWLJvU
