@@ -5,8 +5,8 @@
 High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701), use with PPSSPP emulator.
 
 - Progress: Initial release (around 5%)
-- Latest update: 23/01/2021
-- Total size: 237 MB. (2,339 files)
+- Latest update: 24/01/2021
+- Total size: 243 MB. (2,378files)
 
 •••• Info : •••
 - Logo title & Main Memu = 100% 
@@ -33,7 +33,7 @@ High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701), use
 <a href="https://ibb.co/WtCvFhd"><img src="https://i.ibb.co/sH79QfD/NPJH50701-00030.jpg" alt="NPJH50701-00030" border="0"></a>
 <a href="https://ibb.co/gPKqWKJ"><img src="https://i.ibb.co/s6Yx1Yq/NPJH50701-00020.jpg" alt="NPJH50701-00020" border="0"></a>
 <a href="https://ibb.co/WPL6QvN"><img src="https://i.ibb.co/LJ38MdD/NPJH50701-00032.jpg" alt="NPJH50701-00032" border="0"></a>
-<a href="https://ibb.co/tPTDXdJ"><img src="https://i.ibb.co/YTFhZrL/NPJH50701-00063.jpg" alt="NPJH50701-00063" border="0"></a>
+<a href="https://ibb.co/1bpFyRv"><img src="https://i.ibb.co/7bTsMrY/NPJH50701-00066.jpg" alt="NPJH50701-00066" border="0"></a>
 <a href="https://ibb.co/nD83n0M"><img src="https://i.ibb.co/RC4hBST/NPJH50701-00014.jpg" alt="NPJH50701-00014" border="0"></a>
 <a href="https://ibb.co/MDKk2wq"><img src="https://i.ibb.co/fYZd16m/NPJH50701-00004.jpg" alt="NPJH50701-00004" border="0"></a>
 <a href="https://ibb.co/q7sQNDj"><img src="https://i.ibb.co/6rPCHyw/NPJH50701-00028.jpg" alt="NPJH50701-00028" border="0"></a>
@@ -41,7 +41,7 @@ High resolution textures for Sword Art Online: Infinity Moment (NPJH-50701), use
 <a href="https://ibb.co/x1QYnHj"><img src="https://i.ibb.co/jyFzCRM/NPJH50701-00064.jpg" alt="NPJH50701-00064" border="0"></a>
 <a href="https://ibb.co/rFTZzKb"><img src="https://i.ibb.co/5Gt5SXY/NPJH50701-00017.jpg" alt="NPJH50701-00017" border="0"></a>
 
-• Review: https://youtu.be/_52tfhWLJvU
+• Video review: https://youtu.be/_52tfhWLJvU
 
 ================================================
 
@@ -56,14 +56,14 @@ On Android it's recommended to download by "Termux" app (from Play Store).
 - Step 5 : "git clone https://github.com/Saramagrean/SAO-IM-HD-Remake-Project.git"
 - Step 6 : waiting donwload 100%
 
-On Windows use "Git" or "Github desktop" for download.
-
 Up-to-date command.
 - Step 1 : "cd ~/storage/shared/SAO-IM-HD-Remake-Project"
 - Step 2 : "git pull origin master"
 - Step 3 : waiting donwload 100%
 
-or...
+On Windows use "Git" or "Github desktop" for download.
+
+or direct link...
 https://codeload.github.com/Saramagrean/SAO-IM-HD-Remake-Project/zip/master
 
 How to install texture pack? : can install via PPSSPP (just drag & drop)
